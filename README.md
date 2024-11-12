@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alberto Rey </h1>
-<h3 align="center"> systems engineering, frontend developer, Cloud Computing Student, currently looking for a job. I like sports and esports </h3>
+<h3 align="center"> systems engineering, fullstack developer, Cloud Computing Student, currently looking for a job. I like sports and esports </h3>
 
 
 - 📫 How to reach me **ajrey1282@gmail.com**
