@@ -2,7 +2,7 @@
 <h3 align="center"> systems engineering, fullstack developer, Cloud Computing Student, currently looking for a job. I like sports and esports </h3>
 
 
-- 📫 How to reach me **ajrey1282@gmail.com**
+- 📫 How to reach me **ing.albertorey07@gmail.com**
 
 - ⚡ Fun fact **I like to play league of legends**
 
